@@ -1,0 +1,48 @@
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.exe
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.deps.json
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.json
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.dev.json
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.AssemblyReference.cache
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.frmFutureValue.resources
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.GenerateResource.cache
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfoInputs.cache
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfo.cs
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\HarrisonRogers\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.genruntimeconfig.cache
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.exe
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.deps.json
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.json
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.dev.json
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.AssemblyReference.cache
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.frmFutureValue.resources
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.GenerateResource.cache
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfoInputs.cache
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfo.cs
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\hrogers.HFR\Dropbox\Murach\C#\C#.Net Core\cse7_allfiles\Exercise Solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.genruntimeconfig.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.exe
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.deps.json
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.json
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.dev.json
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.AssemblyReference.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.frmFutureValue.resources
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.GenerateResource.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfoInputs.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfo.cs
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\hrogers.HFR\VisualStudioProjects\FutureMoneyValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.genruntimeconfig.cache
